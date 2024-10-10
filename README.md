@@ -1,5 +1,5 @@
 # LSTM-for-Robot-Arm-Control
-Using an LSTM network to control a robot nce of positions.
+Using an LSTM network to control a robot sequence of positions.
 #Data Preparation
 #First, we generate synthetic data representing a sequence of positions (e.g., angles for a robot arm).
 import numpy as np
