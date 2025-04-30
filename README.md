@@ -23,12 +23,6 @@ This project uses a Long Short-Term Memory (LSTM) neural network to control a ro
 - Matplotlib
 - Scikit-learn
 
----
-
-## 📁 Project Structure
-
-robot-arm-lstm/ ├── LSTM for Robot Arm Control.ipynb # Main Jupyter Notebook ├── dataset/ # Directory for input datasets (optional) │ └── data.csv # Sample training data (example) ├── requirements.txt # Python dependencies ├── README.md # Project documentation ├── models/ # Saved models (if any) │ └── lstm_model.h5 # Trained LSTM model
-
  ---
 
 ## 📚 References
